@@ -1,0 +1,83 @@
+[
+  {
+    "slug": "junior-react-js-developer",
+    "title": "Junior React JS Developer",
+    "postedBy": "Netflix",
+    "datePosted": "6/22/23",
+    "closingDate": "7/1/23",
+    "experience": "1+ Years",
+    "gender": "Male",
+    "location": "Sialkot",
+    "qualification": "Degree",
+    "types": [
+      "Full Time"
+    ],
+    "category": "Development",
+    "income": {
+      "min": 450,
+      "max": 500,
+      "period": "month"
+    }
+  },
+  {
+    "slug": "product-sales-specialist",
+    "title": "Product Sales Specialist",
+    "postedBy": "Netflix",
+    "datePosted": "6/22/23",
+    "closingDate": "7/1/23",
+    "experience": "3+ Years",
+    "gender": "Both",
+    "location": "Lahore",
+    "qualification": "Degree",
+    "types": [
+      "Full Time",
+      "Urgent"
+    ],
+    "category": "Marketing",
+    "income": {
+      "min": 520,
+      "max": 650,
+      "period": "month"
+    }
+  },
+  {
+    "slug": "assistant-store-keeper",
+    "title": "Assistant / Store Keeper",
+    "postedBy": "Netflix",
+    "datePosted": "6/22/23",
+    "closingDate": "7/1/23",
+    "experience": "Not Required",
+    "gender": "Female",
+    "location": "Karachi",
+    "qualification": "Not Required",
+    "types": [
+      "Part Time"
+    ],
+    "category": "Marketing",
+    "income": {
+      "min": 100,
+      "max": 120,
+      "period": "week"
+    }
+  },
+  {
+    "slug": "product-designer",
+    "title": "Product Designer",
+    "postedBy": "Netflix",
+    "datePosted": "6/22/23",
+    "closingDate": "7/1/23",
+    "experience": "2+ Years",
+    "gender": "Male",
+    "location": "Lahore",
+    "qualification": "Certificate",
+    "types": [
+      "Internship"
+    ],
+    "category": "Design",
+    "income": {
+      "min": 150,
+      "max": 200,
+      "period": "month"
+    }
+  }
+]
